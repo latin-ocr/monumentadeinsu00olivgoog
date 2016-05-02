@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./monumentadeinsu00olivgoog_0148.png"; bbox 0 0 3202 5124; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 500 1579 986 1700">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 500 1579 986 1700">
+     <span class='ocr_line' id='line_1_1' title="bbox 500 1579 986 1700; baseline -0.006 0"><span class='ocrx_word' id='word_1_1' title='bbox 500 1579 986 1700; x_wconf 78' lang='lat' dir='ltr'>CHRONICON</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 201 2030 1286 2196">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 201 2030 1286 2196">
+     <span class='ocr_line' id='line_1_2' title="bbox 201 2030 1286 2196; baseline -0.001 -48"><span class='ocrx_word' id='word_1_2' title='bbox 201 2031 550 2196; x_wconf 74' lang='lat' dir='ltr'><strong>MANNIAE</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 617 2031 710 2146; x_wconf 73' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 776 2030 1286 2171; x_wconf 79' lang='lat' dir='ltr'><strong>INSULARUM,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 275 2760 1216 2883">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 275 2760 1216 2883">
+     <span class='ocr_line' id='line_1_3' title="bbox 275 2760 1216 2883; baseline -0.004 0"><span class='ocrx_word' id='word_1_5' title='bbox 275 2761 762 2883; x_wconf 80' lang='lat' dir='ltr'>CHRONIGLE</span> <span class='ocrx_word' id='word_1_6' title='bbox 829 2761 925 2876; x_wconf 82' lang='lat' dir='ltr'><strong>OF</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 987 2760 1216 2879; x_wconf 83' lang='lat' dir='ltr'><strong>MANN</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 508 3371 988 3563">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 508 3371 988 3563">
+     <span class='ocr_line' id='line_1_4' title="bbox 508 3371 988 3563; baseline 0.006 -6"><span class='ocrx_word' id='word_1_8' title='bbox 508 3443 664 3559; x_wconf 74' lang='lat' dir='ltr'><strong>THE</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 731 3371 988 3563; x_wconf 61' lang='lat' dir='ltr'><strong>mmm.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1606 5124">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1606 5124">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1606 5124; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1606 5124; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
