@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./monumentadeinsu00olivgoog/monumentadeinsu00olivgoog_0007.png"; bbox 0 0 3232 5152; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 623 2446 1029 2600">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 623 2446 1029 2600">
+     <span class='ocr_line' id='line_1_1' title="bbox 672 2446 972 2503; baseline 0.033 -16"><span class='ocrx_word' id='word_1_1' title='bbox 672 2446 760 2490; x_wconf 66' lang='lat' dir='ltr'>maten</span> <span class='ocrx_word' id='word_1_2' title='bbox 772 2448 799 2500; x_wconf 76' lang='lat' dir='ltr'><strong>by</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 812 2449 840 2490; x_wconf 81' lang='lat' dir='ltr'><strong>H.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 855 2451 972 2503; x_wconf 76' lang='lat' dir='ltr'><strong>cunm,</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 623 2542 1029 2600; baseline 0.022 -16"><span class='ocrx_word' id='word_1_5' title='bbox 623 2542 693 2585; x_wconf 71' lang='lat' dir='ltr'><strong>Hm</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 704 2543 750 2586; x_wconf 73' lang='lat' dir='ltr'><strong>Suu</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 761 2545 831 2597; x_wconf 73' lang='lat' dir='ltr'>Office,</span> <span class='ocrx_word' id='word_1_8' title='bbox 844 2547 876 2591; x_wconf 80' lang='lat'><strong>1³.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 888 2547 1029 2600; x_wconf 61' lang='lat' dir='ltr'><strong>Mna-street,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 776 2641 877 2692">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 776 2641 877 2692">
+     <span class='ocr_line' id='line_1_3' title="bbox 776 2641 877 2692; baseline 0 -8"><span class='ocrx_word' id='word_1_10' title='bbox 776 2641 877 2692; x_wconf 70' lang='lat' dir='ltr'><strong>Doussln.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1620 5152">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1620 5152">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1620 5152; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1620 5152; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
